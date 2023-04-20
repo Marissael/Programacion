@@ -1,0 +1,17 @@
+body h1 {
+    background-color: aquamarine;
+}
+.textoalineado {
+    text-align:center;
+}
+.textoalineado h2 {
+    text-align: center;
+}
+#fondorosa {
+    background-color: rgba(194, 142, 186, 0.65);
+}
+.bordepunteado {
+    border:7px;
+    border-style:dashed;
+    border-color: rgb(15, 71, 71);
+}
